@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+outputs/
+cache/
+data/*/
+*.download
+*.so
+*.dll

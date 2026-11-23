@@ -1,0 +1,86 @@
+[
+  {
+    "dataset": "amazon-cds",
+    "path": "data/amazon-cds/splitting/0/0/train.tsv",
+    "sha256": "aaa0d0164a885a762200f09a0ff5d5ec8151e223e5491f08acfe7bd7e18a3070",
+    "bytes": 6913093,
+    "local_path": "amazon-cds/train.tsv"
+  },
+  {
+    "dataset": "amazon-cds",
+    "path": "data/amazon-cds/splitting/0/0/val.tsv",
+    "sha256": "098ae084b39bc9d02c8bf74c9fb9352c68467ebeb2ad14d18861586bbd0d1695",
+    "bytes": 1513904,
+    "local_path": "amazon-cds/val.tsv"
+  },
+  {
+    "dataset": "amazon-cds",
+    "path": "data/amazon-cds/splitting/0/test.tsv",
+    "sha256": "9228a54d6287470a180954b897f888eb6809c9b56dcfddad1d70bca906a69387",
+    "bytes": 1823117,
+    "local_path": "amazon-cds/test.tsv"
+  },
+  {
+    "dataset": "douban",
+    "path": "data/douban/splitting/0/0/train.tsv",
+    "sha256": "3d2442ed4233a2dce161b3b328c03166ecf1266846b242caec540f210491b1a0",
+    "bytes": 6759565,
+    "local_path": "douban/train.tsv"
+  },
+  {
+    "dataset": "douban",
+    "path": "data/douban/splitting/0/0/val.tsv",
+    "sha256": "e1c2e36a5343bd6db22b3962e84e07d2d61127d8d9b5f8a961ff5dbc077d2d09",
+    "bytes": 1278311,
+    "local_path": "douban/val.tsv"
+  },
+  {
+    "dataset": "douban",
+    "path": "data/douban/splitting/0/test.tsv",
+    "sha256": "8501ad987a6097a818aaccf58e32253fcc5cbd526e40bdb2f94a49fd98961ccd",
+    "bytes": 1511019,
+    "local_path": "douban/test.tsv"
+  },
+  {
+    "dataset": "gowalla",
+    "path": "data/gowalla/splitting/0/0/train.tsv",
+    "sha256": "dd542b90a2e909f32fe86fa34143df9b8e88b47bfb01413f32a57e529c42ce81",
+    "bytes": 9286725,
+    "local_path": "gowalla/train.tsv"
+  },
+  {
+    "dataset": "gowalla",
+    "path": "data/gowalla/splitting/0/0/val.tsv",
+    "sha256": "c91d380997596cfc870cb3477d3b1de41c2afa7ec141bf556e03baa81cddc8f0",
+    "bytes": 1868113,
+    "local_path": "gowalla/val.tsv"
+  },
+  {
+    "dataset": "gowalla",
+    "path": "data/gowalla/splitting/0/test.tsv",
+    "sha256": "26eade763a7329ac9feb60ab6bff7dde0bcc361592a581515dc2a1519e588dbe",
+    "bytes": 2180046,
+    "local_path": "gowalla/test.tsv"
+  },
+  {
+    "dataset": "yelp2018",
+    "path": "data/yelp2018/splitting/0/0/train.tsv",
+    "sha256": "361a48c504f9286a5eaa6be5bfa7307ba8c0f4098e69bf218c1d6cc52b1a61db",
+    "bytes": 14339177,
+    "local_path": "yelp2018/train.tsv"
+  },
+  {
+    "dataset": "yelp2018",
+    "path": "data/yelp2018/splitting/0/0/val.tsv",
+    "sha256": "143800b439e1ed042f9385325727c4f68234ba585ab63dfb3f3113d0b7f2c16d",
+    "bytes": 2758061,
+    "local_path": "yelp2018/val.tsv"
+  },
+  {
+    "dataset": "yelp2018",
+    "path": "data/yelp2018/splitting/0/test.tsv",
+    "sha256": "808118d48f66a4720aead6c30ac93622444d76b13acb219ca90f4fff958587ef",
+    "bytes": 3250864,
+    "local_path": "yelp2018/test.tsv"
+  }
+]

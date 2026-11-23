@@ -1,0 +1,13 @@
+{
+  "k": 128,
+  "candidate_pool": 128,
+  "lambda": 16.0,
+  "nu": 0.0,
+  "support": 10.0,
+  "statistic": "none",
+  "gamma": 1.0,
+  "beta": 0.5,
+  "overlap": false,
+  "rank": 128,
+  "delta": 1.0
+}
